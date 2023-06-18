@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: hub
+Version: 3.0.1
+Summary: Activeloop Deep Lake
+Home-page: https://www.github.com/activeloopai/deeplake
+Author: activeloop.ai
+Author-email: support@activeloop.ai
+License: MPL-2.0
+Classifier: License :: OSI Approved :: Mozilla Public License 2.0 (MPL 2.0)
+Description-Content-Type: text/x-rst
+Requires-Dist: deeplake
+
+Use deeplake instead: pip install deeplake
